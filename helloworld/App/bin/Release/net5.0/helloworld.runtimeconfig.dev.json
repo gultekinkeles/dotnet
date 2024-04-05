@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gkeles\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gkeles\\.nuget\\packages"
+    ]
+  }
+}

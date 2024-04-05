@@ -1,0 +1,5 @@
+D:\dotnet\helloworld\App\bin\Release\net5.0\publish\helloworld.exe
+D:\dotnet\helloworld\App\bin\Release\net5.0\publish\helloworld.dll
+D:\dotnet\helloworld\App\bin\Release\net5.0\publish\helloworld.deps.json
+D:\dotnet\helloworld\App\bin\Release\net5.0\publish\helloworld.runtimeconfig.json
+D:\dotnet\helloworld\App\bin\Release\net5.0\publish\helloworld.pdb
